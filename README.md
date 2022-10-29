@@ -1,7 +1,7 @@
 ## Oiii eu sou o Daniel Gustavo!
 <div align="center">
 <a href="https://github.com/danielbenevidesdev">
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=danielbenevidesdevs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=danielbenevidesdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielbenevidesdev&layout=compact&langs_count=7&theme=dracula"/>  
 </div>
   
